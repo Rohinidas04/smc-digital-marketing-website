@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.846" height="43.846" viewBox="0 0 43.846 43.846">
+  <g id="apps" transform="translate(-48 -48)">
+    <path id="Path_275" data-name="Path 275" d="M53.9,59.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,53.9,59.8Z" fill="#ff8108"/>
+    <path id="Path_276" data-name="Path 276" d="M205.9,59.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,205.9,59.8Z" transform="translate(-135.979)" fill="#ff8108"/>
+    <path id="Path_277" data-name="Path 277" d="M357.9,59.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,357.9,59.8Z" transform="translate(-271.959)" fill="#ff8108" opacity="0.77"/>
+    <path id="Path_278" data-name="Path 278" d="M53.9,211.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,53.9,211.8Z" transform="translate(0 -135.979)" fill="#ff8108"/>
+    <path id="Path_279" data-name="Path 279" d="M205.9,211.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,205.9,211.8Z" transform="translate(-135.979 -135.979)" fill="#ff8108" opacity="0.54"/>
+    <path id="Path_280" data-name="Path 280" d="M357.9,211.8a5.9,5.9,0,1,1,5.9-5.9,5.9,5.9,0,0,1-5.9,5.9Z" transform="translate(-271.959 -135.979)" fill="#ff8108"/>
+    <path id="Path_281" data-name="Path 281" d="M53.9,363.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,53.9,363.8Z" transform="translate(0 -271.959)" fill="#ff8108"/>
+    <path id="Path_282" data-name="Path 282" d="M205.9,363.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,205.9,363.8Z" transform="translate(-135.979 -271.959)" fill="#ff8108"/>
+    <path id="Path_283" data-name="Path 283" d="M357.9,363.8a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,357.9,363.8Z" transform="translate(-271.959 -271.959)" fill="#ff8108" opacity="0.27"/>
+  </g>
+</svg>

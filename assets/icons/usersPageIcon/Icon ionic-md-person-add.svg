@@ -1,0 +1,11 @@
+<svg id="Icon_ionic-md-person-add" data-name="Icon ionic-md-person-add" xmlns="http://www.w3.org/2000/svg" width="22.375" height="17.9" viewBox="0 0 22.375 17.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="路径_35" data-name="路径 35" class="cls-1" d="M16.825,13.45A4.475,4.475,0,1,1,21.3,8.975,4.488,4.488,0,0,1,16.825,13.45Zm0,2.238c2.965,0,8.95,1.51,8.95,4.475V22.4H7.875V20.163C7.875,17.2,13.86,15.688,16.825,15.688Z" transform="translate(-7.875 -4.5)"/>
+  <path id="路径_36" data-name="路径 36" class="cls-1" d="M4.108,14.233V11.25H5.6v2.983H8.583v1.492H5.6v2.983H4.108V15.725H1.125V14.233Z" transform="translate(13.792 -6.775)"/>
+</svg>

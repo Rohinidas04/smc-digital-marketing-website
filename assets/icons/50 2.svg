@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.934" height="45.934" viewBox="0 0 45.934 45.934">
+  <g id="Group_154" data-name="Group 154" transform="translate(-48.5 -243.5)">
+    <g id="Group_152" data-name="Group 152" transform="translate(-6 6)">
+      <g id="Group_153" data-name="Group 153">
+        <path id="chatbubble-outline_1_" data-name="chatbubble-outline (1)" d="M89.572,84.659a2.5,2.5,0,0,1,.436-1.641,4.956,4.956,0,0,1,.28-.42,22.062,22.062,0,0,0,3.644-12.146C93.971,58.058,83.694,48,70.985,48a22.87,22.87,0,0,0-22.5,17.871,21.972,21.972,0,0,0-.488,4.6A22.515,22.515,0,0,0,70.589,93.1a27.04,27.04,0,0,0,6.235-.924c1.487-.416,2.972-.968,3.356-1.116a3.433,3.433,0,0,1,1.228-.229,3.391,3.391,0,0,1,1.335.268l7.49,2.7a1.767,1.767,0,0,0,.516.135A1.06,1.06,0,0,0,91.8,92.858a1.75,1.75,0,0,0-.066-.363Z" transform="translate(6.501 189.5)" fill="#5ada9f"/>
+      </g>
+    </g>
+    <text id="_50" data-name="50" transform="translate(57 273)" fill="#fff" font-size="24" font-family="Lato-Semibold, Lato" font-weight="600"><tspan x="0" y="0">50</tspan></text>
+  </g>
+</svg>
