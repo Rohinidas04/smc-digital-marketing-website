@@ -1,0 +1,35 @@
+@import '../../variables.scss';
+
+.listWrapper {
+  overflow-y: auto !important;
+  max-height: 621px !important;
+}
+
+.clientItemWrapper {
+  padding: 1em 1em 1em 16px !important;
+}
+
+.selectedItemWrapper {
+  padding: 1em !important;
+  background-color: #ffe7d1 !important;
+  border-left: 2px #ff8108 solid !important;
+}
+
+.listWrapper::-webkit-scrollbar-track {
+  padding: 2px 0;
+  background-color: white !important;
+}
+
+.listWrapper::-webkit-scrollbar {
+  background-color: white !important;
+  width: 10px;
+}
+
+.listWrapper::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: white !important;
+}
+
+.listWrapper::-webkit-scrollbar-thumb:hover {
+  background-color: #ffe7d1 !important;
+}

@@ -1,0 +1,41 @@
+@import '../../variables.scss';
+
+.dropdownWrapper {
+  height: 24px !important;
+  width: 100%;
+  display: flex !important;
+  flex-direction: row !important;
+  padding: 5px !important;
+  align-items: stretch;
+  font-size: 10px !important;
+  white-space: nowrap;
+}
+
+.imageWrapper {
+  margin-left: 5px;
+  width: 28px !important;
+  height: 24px !important;
+  background-color: orange !important;
+}
+
+.menuWrapper {
+  position: relative !important;
+  display: inline-block !important;
+  width: 33% !important;
+}
+
+.middleSeperate {
+  height: 10px !important;
+  width: 30% !important;
+}
+
+.normalFontWeight,
+.width40px {
+  font-weight: normal !important;
+}
+
+.width40px {
+  width: 45px;
+  white-space: nowrap;
+  font-size: 12px !important;
+}

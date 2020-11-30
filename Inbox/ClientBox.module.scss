@@ -1,0 +1,66 @@
+.clientBoxWrapper {
+  border: 5px !important;
+  height: 24px !important;
+  //display: inline-block;
+  overflow: hidden;
+}
+
+.nameInputWrapper,
+.phoneInputWrapper {
+  height: 100% !important;
+  background-color: Transparent !important;
+  border: 0em !important;
+  outline: none !important;
+  min-width: 8em !important;
+  max-width: 15% !important;
+  float: left;
+  padding-left: 1em !important;
+}
+
+.phoneInputWrapper {
+  width: 8em !important;
+}
+
+.resolveIconWrapper {
+  height: 1em !important;
+  width: 1em !important;
+  float: left;
+}
+
+.resolveColor {
+  color: #ff8108 !important;
+}
+
+.resolveButtonWrapper,
+.profileWrapper,
+.clockWrapper {
+  height: 100% !important;
+  width: 7em !important;
+  padding: 0em !important;
+  border: 0em !important;
+  background-color: Transparent !important;
+  outline: none !important;
+  color: #6e7e98 !important;
+  float: right !important;
+  padding-left: 0.5em !important;
+  padding-right: 0.5em !important;
+}
+
+.profileWrapper {
+  width: 5em !important;
+}
+
+.clockWrapper {
+  width: 6em !important;
+}
+
+.dropDownWrapper {
+  overflow: visible !important;
+  float: right !important;
+  height: 24px !important;
+}
+
+.menuIconWrapper {
+  float: left;
+  height: 20px !important;
+}

@@ -1,0 +1,118 @@
+@import '../../variables.scss';
+
+.form {
+  color: $label !important;
+}
+
+.formTitle {
+  color: $black !important;
+  font-size: 30px !important;
+  font-weight: 400 !important;
+  padding-bottom: 0.5em !important;
+}
+
+label {
+  font-weight: 400 !important;
+  color: $label !important;
+}
+
+input {
+  height: 70px !important;
+}
+
+.formButton {
+  height: 70px !important;
+  width: 100% !important;
+  margin: 1em 0 1em 0 !important;
+  font-size: 24px !important;
+  font-weight: 400 !important;
+}
+.signUpButton {
+  color: white !important;
+  background-color: $orange !important;
+}
+
+.inputField {
+  width: 100% !important;
+  margin: 2em 0 2em 0 !important;
+}
+
+.signUpGoogle {
+  width: 50% !important;
+  margin: 0px 8px !important;
+  background-color: white !important;
+  border: 1px solid lightgray !important;
+}
+
+.signUpFacebook {
+  width: 50% !important;
+  background-color: #3b5998 !important;
+  margin: 0px 8px !important;
+  color: white !important;
+}
+
+.orDivider {
+  text-align: center !important;
+}
+
+.termsAndCondition {
+  color: $orange !important;
+  margin: 0px 2px !important;
+  text-decoration: underline !important;
+  text-align: center !important;
+}
+
+.policy {
+  text-align: center;
+  font-weight: 400 !important;
+  font-size: 20px;
+  color: rgba($grey, 0.5) !important;
+  padding: 10px;
+}
+
+.saveCCInfo {
+  color: white !important;
+  background-color: $orange !important;
+}
+
+.connectPayPal {
+  background-color: #1E9AF4 !important;
+  color: white !important;
+}
+
+.expirationCVVWrapper {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  margin: 0 auto !important;
+}
+
+.expDropdownWrapper {
+  display: flex !important;
+  flex-direction: column !important;
+  margin: 0 !important;
+  // align-items: flex-start;
+  // justify-content: flex-start;
+}
+
+.paymentInfoForm {
+  width: 100% !important;
+}
+
+.expLabel {
+  margin-bottom: 5px;
+}
+
+.paymentDropdown {
+  // width: 100px !important;
+}
+
+.cvvInput {
+  width: 30% !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+

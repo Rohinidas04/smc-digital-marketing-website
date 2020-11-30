@@ -1,0 +1,35 @@
+@import '../../variables.scss';
+
+.messageItem {
+  padding-right: 2em !important;
+}
+
+.contenItem {
+  background-color: #ffe7d1;
+  border-radius: 10px !important;
+  border: 10px !important;
+  padding: 0.5em 1em 0.5em 1em !important;
+}
+
+.clientName {
+  color: #000000 !important;
+  font-size: 12px !important;
+}
+
+.dateWrapper {
+  color: #9faabb !important;
+  float: right !important;
+}
+
+.timeWrapper {
+  font-size: 11px !important;
+}
+
+.monthWrapper {
+  font-size: 12px !important;
+}
+
+.floatRight {
+  float: right !important;
+  max-width: 50% !important;
+}

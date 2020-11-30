@@ -1,0 +1,39 @@
+@import '../../variables.scss';
+
+svg {
+    // background-color: #eee;
+    overflow: visible !important;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.wrapper {
+    // overflow: visible;
+    display: flex;
+    align-items: stretch;
+}
+
+.axisLine line{
+    stroke: #F7F8F9;
+}
+
+.axisLine path {
+    stroke: #F7F8F9;
+}
+
+.axisLine text {
+    fill: #BBC4D0;
+}
+
+.grid line {
+    stroke: #EFF3F6;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+
+.grid path {
+    stroke-width: 0;
+    stroke: #EFF3F6;
+
+}

@@ -1,0 +1,25 @@
+@import '../../variables.scss';
+
+
+.grid {
+    width: 97% !important;
+    margin: 0px 0px 0px 15px !important;
+}
+
+.progess {
+    width: 100% !important;
+    height: 10px !important;
+    margin-bottom: 0 !important;
+}
+
+.label {
+    font-size: medium;
+}
+
+.wrapper {
+    // display: flex;
+    // flex-direction: column;
+    // align-items: stretch;
+    // justify-content: stretch;
+    height: 325px !important;
+}

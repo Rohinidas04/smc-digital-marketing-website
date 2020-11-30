@@ -1,0 +1,30 @@
+@import '../../variables.scss';
+
+.mesWrapper {
+  overflow-y: auto !important;
+  //   margin-top: 1em !important;
+  //   margin-bottom: 1em !important;
+  max-height: 550px !important;
+  margin-right: 1px !important;
+  min-height: 550px !important;
+  margin-top: 0px !important;
+}
+
+.mesWrapper::-webkit-scrollbar-track {
+  padding: 2px 0;
+  background-color: white !important;
+}
+
+.mesWrapper::-webkit-scrollbar {
+  background-color: white !important;
+  width: 10px;
+}
+
+.mesWrapper::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: white !important;
+}
+
+.mesWrapper::-webkit-scrollbar-thumb:hover {
+  background-color: #ffe7d1 !important;
+}

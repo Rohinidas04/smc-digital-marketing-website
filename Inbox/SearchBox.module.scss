@@ -1,0 +1,18 @@
+@import '../../variables.scss';
+
+.searchWrapper {
+  height: 24px !important;
+  width: auto;
+  border-radius: 10px !important;
+}
+
+.imageWrapper {
+  margin-left: 5px;
+  width: 28px !important;
+  height: 24px !important;
+  background-color: orange !important;
+}
+
+.searchBoxWrapper {
+  overflow: hidden;
+}

@@ -1,0 +1,35 @@
+@import '../../variables.scss';
+.inputSMS {
+  min-height: 2em !important;
+  height: 24px !important;
+  width: auto !important;
+  background-color: white !important;
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+  border-color: white !important;
+}
+
+.clock {
+  max-height: 2em !important;
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+  padding-left: 0.5em !important;
+  padding-right: 0.5em !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: 0;
+}
+
+.sendBtn {
+  max-height: 2em !important;
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+  background-color: #ff8108 !important;
+  font-size: 13px !important;
+  color: white !important;
+}
+.clockImage {
+  height: 1em !important;
+}

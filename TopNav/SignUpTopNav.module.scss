@@ -1,0 +1,23 @@
+@import '../../variables.scss';
+
+.list {
+  width: 100% !important;
+  text-align: right !important;
+  padding: 17px !important;
+}
+
+.listItem {
+  font-size: 21px !important;
+  margin: 5px !important;
+}
+
+.email {
+  color: $grey !important;
+}
+
+.logOut {
+  color: $orange !important;
+  font-weight: bold !important;
+  margin-right: 2rem !important;
+  background-color: transparent !important;
+}

@@ -1,0 +1,40 @@
+@import '../../variables.scss';
+
+.title {
+    font-size: x-large ;
+}
+
+.label {
+    font-size: x-small;
+}
+
+.headerWrapper {
+    margin: 30px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: flex-start !important;
+}
+
+.progess {
+    width: 100% !important;
+    height: 10px !important;
+    margin-bottom: 0 !important;
+}
+
+.rightCorner {
+    width: 25% !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+    align-items: flex-start !important;
+}
+
+.icons {
+    margin: 0px 10px !important;
+}
+
+.question {
+    margin-top: 10px !important;
+    margin-left: 20px !important;
+
+}

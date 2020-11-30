@@ -1,0 +1,21 @@
+@import '../../variables.scss';
+
+.pageWrapper {
+  background-color: transparent !important;
+  border-radius: 0px !important;
+  border: 0px !important;
+  box-shadow: none !important;
+}
+
+.planWrapper {
+  background-color: $secondary-bg !important;
+  border-radius: 8px !important;
+  box-shadow: 1px 1px 3px 3px rgba($fadeBlue, 0.16) !important;
+  margin-bottom: 2em !important;
+}
+
+.planOptions {
+  display: flex !important;
+  justify-content: space-between !important;
+  padding: 1em !important;
+}

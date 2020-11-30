@@ -1,0 +1,52 @@
+@import '../../variables.scss';
+
+.placeholder {
+    height: 20px !important;
+}
+
+.sidebarSelectionWrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    height: 50% !important;
+    padding: 10px !important;
+    cursor: pointer;
+    color: black !important;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
+
+.sidebarSelectionWrapper:hover {
+    background-color: #FFE7D1;
+    color: black !important;
+}
+
+.link {
+    color: #6E7E98 !important;
+}
+
+.iconTitleWrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    width: 100% !important;
+}
+
+.icons {
+    margin: 0px 15px !important;
+    width: 25px !important;
+    color: #6E7E98 !important;
+}
+
+.number {
+    margin: auto 0 !important;
+    height: 50% !important;
+    width: 100% !important;
+    text-align: center;
+    padding: 30px !important;
+  }
+  
+
+// .iconWrapper {
+//     width: 20px !important;
+//     margin: 0px 15px !important;
+// }

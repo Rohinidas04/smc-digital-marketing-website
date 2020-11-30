@@ -1,0 +1,24 @@
+@import '../../variables.scss';
+
+.progressBar {
+    width: 100px !important;
+    margin: none !important;
+}
+
+.progressWrapper {
+    padding: 0px !important;
+    margin:  5px 0px !important;
+    box-shadow: none !important;
+    border: none !important;
+    background-color: transparent !important;
+    height: 100%;
+    min-height: 40px;
+}
+
+.progress {
+    margin: 0 !important;
+}
+
+.bar {
+    border-radius: 5px !important;
+}

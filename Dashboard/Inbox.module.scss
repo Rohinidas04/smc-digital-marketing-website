@@ -1,0 +1,50 @@
+@import '../../variables.scss';
+
+.inbox {
+  padding: 0px !important;
+  margin: 0px !important;
+  box-shadow: none !important;
+  border: none !important;
+  height: 50px !important;
+  background-color: transparent !important;
+}
+
+.inboxHeader {
+  display: flex;
+  justify-content: space-between;
+  color: orange;
+}
+
+.title {
+  text-decoration: underline;
+}
+
+.search {
+  height: auto !important;
+}
+
+.nameLabel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: bold;
+  height: 20px;
+}
+
+.messageWrapper {
+  margin: 5px 5px;
+}
+
+.date {
+  color: #bbc4d0;
+}
+
+.messageText {
+  color: #808da4;
+}
+
+// cant keep this one becuase cant use important in global
+// input {
+//   height: 40px;
+//   background-color: #e8ecf2 !important;
+// }

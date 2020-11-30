@@ -1,0 +1,22 @@
+@import '../../variables.scss';
+
+.menuWrapper {
+  border-color: white !important;
+  min-height: 2em !important;
+  height: 2em !important;
+}
+
+.menuItem {
+  border-color: #ffe7d1 !important;
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+  font-size: 1em !important;
+  height: 2em !important;
+}
+
+.normalItem {
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+  font-size: 1em !important;
+  height: 2em !important;
+}

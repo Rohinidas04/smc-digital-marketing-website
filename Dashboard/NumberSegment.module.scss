@@ -1,0 +1,18 @@
+@import '../../variables.scss';
+
+.numberWrapper {
+    color: #6E7E98 !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    box-shadow: none !important;
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.numberWrapper * {
+    margin: 0;
+}
+
+.title {
+    color: black;
+}

@@ -1,0 +1,24 @@
+@import '../../variables.scss';
+
+.quote {
+  background-color: #ffedde;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+}
+
+.name {
+  color: orange;
+  font-size: 20px !important;
+  padding-left: 1em !important;
+}
+
+.description {
+  color: gray;
+  font-size: 20px !important;
+}
+
+.text {
+  line-height: 2em !important;
+  font-size: 20px !important;
+}
